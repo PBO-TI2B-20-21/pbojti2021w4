@@ -7,7 +7,7 @@ package dhimas.arbi.relasiclass.tugas;
 public class Transaksi {
 
     private String orderId;
-    private final Barang barang;
+    private Barang barang;
     private Pembeli pembeli;
     private Kasir kasir;
 
